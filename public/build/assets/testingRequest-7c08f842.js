@@ -1,0 +1,1 @@
+import{q as e}from"./app-1983373d.js";function s(t){return e({url:`/api/testing-requests${t}`,method:"get"})}function i(t){return e({url:`/api/testing-requests/${t}`,method:"get"})}export{i as a,s as f};

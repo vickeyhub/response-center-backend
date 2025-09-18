@@ -1,0 +1,1 @@
+import{q as e}from"./app-1983373d.js";function s(t){return e({url:`/api/states${t}`,method:"get"})}function u(t){return e({url:`/api/states/${t}`,method:"delete"})}function n(t){return e({url:"/api/states",method:"post",data:t})}function o(t,a){return e({url:`/api/states/${a}`,method:"put",data:t})}export{n as c,u as d,s as f,o as u};

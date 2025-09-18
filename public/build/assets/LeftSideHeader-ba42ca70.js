@@ -1,0 +1,1 @@
+import{_ as s,o as a,f as o,b as e,t as r}from"./app-1983373d.js";const c={props:{headerData:{type:String,required:!0}}},n={class:"col"},i={class:"title"};function d(_,l,t,p,f,h){return a(),o("div",n,[e("div",i,[e("h1",null,r(t.headerData),1)])])}const m=s(c,[["render",d]]);export{m as L};
